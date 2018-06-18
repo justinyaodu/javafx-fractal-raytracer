@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="javafx-fractal-raytracer">
+    <output-path>$PROJECT_DIR$/out/artifacts/javafx_fractal_raytracer</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="gui.GUI" />
+        <option name="description" value="A simple raytracing program which renders still images and animations of of 3D fractals and other shapes." />
+        <option name="height" value="800" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="JavaFX Fractal Raytracer" />
+        <option name="vendor" value="Justin Yao Du" />
+        <option name="version" value="1.0" />
+        <option name="width" value="1200" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="javafx-fractal-raytracer.jar">
+        <element id="module-output" name="javafx-fractal-raytracer" />
+      </element>
+    </root>
+  </artifact>
+</component>
