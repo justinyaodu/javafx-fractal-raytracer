@@ -2,6 +2,12 @@
 
 A simple raytracing program which renders still images and animations of of 3D fractals and other shapes.
 
+## Installation
+
+Download the executable JAR file from [here](https://github.com/justinyaodu/javafx-fractal-raytracer/raw/master/jar/javafx-fractal-raytracer.jar). This program (unsurprisingly) requires Java installed to run.
+
+To start the program, open the downloaded JAR file in Java, or execute `java -jar javafx-fractal-raytracer.jar` from the command line.
+
 ## Screenshots and Animations
 
 ![Screenshot of application with Mandelbrot4 rendered](media/screenshot/screenshot.png)
@@ -29,7 +35,7 @@ _Generated with [apngasm](https://github.com/apngasm/apngasm) and [ffmpeg](https
 * Code documentation
 * More fun shapes!
 
-### Out of Scope
+### Out of Scope (for this project)
 
 * GPU acceleration
 * Direct export of animated image or video files ([apngasm](https://github.com/apngasm/apngasm) and [ffmpeg](https://www.ffmpeg.org/) can help with this)
