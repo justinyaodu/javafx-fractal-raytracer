@@ -1,6 +1,6 @@
 # JavaFX Fractal Raytracer
 
-A simple raytracing program which renders still images and animations of of 3D fractals and other shapes.
+A simple raytracing program which renders still images and animations of 3D fractals and other shapes.
 
 ## Installation
 
