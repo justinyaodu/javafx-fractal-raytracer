@@ -4,6 +4,8 @@ A simple raytracing program which renders still images and animations of of 3D f
 
 ## Screenshots and Animations
 
+![Screenshot of application with Mandelbrot4 rendered](media/screenshot/screenshot.png)
+
 ![Mandelbrot3 with shading](media/gif/jfrt_mandelbrot3_solid.gif) ![Mandelbrot3 ghosted](media/gif/jfrt_mandelbrot3_ghost.gif)
 
 ![Menger sponge zoom](media/gif/jfrt_mengersponge_zoom.gif) ![Tangent bubbles at increasing escape thresholds](media/gif/jfrt_tangentbubbles.gif)
@@ -23,6 +25,7 @@ _Generated with [apngasm](https://github.com/apngasm/apngasm) and [ffmpeg](https
 ### Todo
 
 * Animated help graphics
+* Help and about
 * Code documentation
 * More fun shapes!
 
