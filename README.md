@@ -1,12 +1,12 @@
 # JavaFX Fractal Raytracer
 
-A simple raytracing program which renders still images and animations of 3D fractals and other shapes.
+A simple raytracing program which renders still images and animations of 3D fractals and other shapes. This program is written in Java and uses JavaFX for its GUI.
 
 ## Installation
 
 Download the executable JAR file from [here](https://github.com/justinyaodu/javafx-fractal-raytracer/raw/master/jar/javafx-fractal-raytracer.jar). This program (unsurprisingly) requires Java installed to run.
 
-To start the program, open the downloaded JAR file in Java, or execute `java -jar javafx-fractal-raytracer.jar` from the command line.
+To start the program, simply open the downloaded JAR file, or execute `java -jar javafx-fractal-raytracer.jar` from the command line.
 
 ## Screenshots and Animations
 
@@ -22,11 +22,13 @@ _Generated with [apngasm](https://github.com/apngasm/apngasm) and [ffmpeg](https
 
 ### Implemented
 
-* Multithreading support
+* Camera positioning, zooming, movement
+* Customizable color palette
 * Keyframe-based animation system
 * A variety of fractals and other interesting shapes to explore
 * Lots of configurable parameters
 * Shading and ghosting effects
+* Multithreading support
 
 ### Todo
 
@@ -38,7 +40,7 @@ _Generated with [apngasm](https://github.com/apngasm/apngasm) and [ffmpeg](https
 ### Out of Scope (for this project)
 
 * GPU acceleration
-* Direct export of animated image or video files ([apngasm](https://github.com/apngasm/apngasm) and [ffmpeg](https://www.ffmpeg.org/) can help with this)
+* Direct export of animated image or video files ([apngasm](https://github.com/apngasm/apngasm) and [ffmpeg](https://www.ffmpeg.org/) can help with creating these from the exported PNG files)
 
 ## License
 
