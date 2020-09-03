@@ -45,9 +45,3 @@ _Generated with [apngasm](https://github.com/apngasm/apngasm) and [ffmpeg](https
 ## License
 
 This software is licensed under the [MIT License](LICENSE).
-
-## Meta
-
-The author wanted to play with some three-dimensional analogues of the famous [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set), so he wrote a raytracer to render it. Then he thought it needed to be prettier, so he implemented color and shading... but it was still difficult to visualize three-dimensionally, so he added animation support too. He thought it would be nice to share this creation with others, so the user interface was tidied up and improved. And it seems the internet is a good place to share software, so here it is. Enjoy!
-
-Please remember that this software was written for fun in two weeks by an amateur programmer. There is certainly potential for further performance optimizations, code restructuring, bug fixing, etc. so feel free to make suggestions!
